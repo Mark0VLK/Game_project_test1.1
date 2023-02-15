@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.18028352, g: 0.22571376, b: 0.30692244, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028331, g: 0.2257133, b: 0.3069217, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -768,3 +768,80 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &4623032633449274132
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4458032572644123832, guid: 81c42db1832afa84182850106d6c3449, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4458032572644123832, guid: 81c42db1832afa84182850106d6c3449, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.55961
+      objectReference: {fileID: 0}
+    - target: {fileID: 4458032572644123832, guid: 81c42db1832afa84182850106d6c3449, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 34.36
+      objectReference: {fileID: 0}
+    - target: {fileID: 4458032572644123832, guid: 81c42db1832afa84182850106d6c3449, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4458032572644123832, guid: 81c42db1832afa84182850106d6c3449, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4458032572644123832, guid: 81c42db1832afa84182850106d6c3449, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.66563916
+      objectReference: {fileID: 0}
+    - target: {fileID: 4458032572644123832, guid: 81c42db1832afa84182850106d6c3449, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7427261
+      objectReference: {fileID: 0}
+    - target: {fileID: 4458032572644123832, guid: 81c42db1832afa84182850106d6c3449, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.054125335
+      objectReference: {fileID: 0}
+    - target: {fileID: 4458032572644123832, guid: 81c42db1832afa84182850106d6c3449, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.048507694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4458032572644123832, guid: 81c42db1832afa84182850106d6c3449, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 100.41501
+      objectReference: {fileID: 0}
+    - target: {fileID: 4458032572644123832, guid: 81c42db1832afa84182850106d6c3449, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -52.862
+      objectReference: {fileID: 0}
+    - target: {fileID: 4458032572644123832, guid: 81c42db1832afa84182850106d6c3449, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -53.319
+      objectReference: {fileID: 0}
+    - target: {fileID: 5384727622648096606, guid: 81c42db1832afa84182850106d6c3449, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5384727622648096606, guid: 81c42db1832afa84182850106d6c3449, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7b3becbf7dff26342b798abfd0f03155, type: 2}
+    - target: {fileID: 5384727622648096606, guid: 81c42db1832afa84182850106d6c3449, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2904718997602887527, guid: 81c42db1832afa84182850106d6c3449, type: 3}
+    - target: {fileID: 5384727622648096606, guid: 81c42db1832afa84182850106d6c3449, type: 3}
+      propertyPath: m_SelectedEditorRenderState
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6083761858477555632, guid: 81c42db1832afa84182850106d6c3449, type: 3}
+      propertyPath: m_Name
+      value: Tree
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 81c42db1832afa84182850106d6c3449, type: 3}
